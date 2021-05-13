@@ -1,0 +1,20 @@
+{
+  "name": "icons",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@iconify/json": "^1.1.342",
+    "@vitejs/plugin-vue": "^1.2.2",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.3.0",
+    "vite-plugin-components": "^0.9.1",
+    "vite-plugin-icons": "^0.5.0"
+  }
+}
